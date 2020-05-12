@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kendallajordan/React-Tutorial/static/css/main.8a18c7c4.chunk.css",
+    "main.js": "/kendallajordan/React-Tutorial/static/js/main.d9fc91aa.chunk.js",
+    "main.js.map": "/kendallajordan/React-Tutorial/static/js/main.d9fc91aa.chunk.js.map",
+    "runtime-main.js": "/kendallajordan/React-Tutorial/static/js/runtime-main.4a808208.js",
+    "runtime-main.js.map": "/kendallajordan/React-Tutorial/static/js/runtime-main.4a808208.js.map",
+    "static/js/2.e6844fbd.chunk.js": "/kendallajordan/React-Tutorial/static/js/2.e6844fbd.chunk.js",
+    "static/js/2.e6844fbd.chunk.js.map": "/kendallajordan/React-Tutorial/static/js/2.e6844fbd.chunk.js.map",
+    "index.html": "/kendallajordan/React-Tutorial/index.html",
+    "precache-manifest.1bcce9ced19cc5c536eaa6fce6cc4ba0.js": "/kendallajordan/React-Tutorial/precache-manifest.1bcce9ced19cc5c536eaa6fce6cc4ba0.js",
+    "service-worker.js": "/kendallajordan/React-Tutorial/service-worker.js",
+    "static/css/main.8a18c7c4.chunk.css.map": "/kendallajordan/React-Tutorial/static/css/main.8a18c7c4.chunk.css.map",
+    "static/js/2.e6844fbd.chunk.js.LICENSE.txt": "/kendallajordan/React-Tutorial/static/js/2.e6844fbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a808208.js",
+    "static/js/2.e6844fbd.chunk.js",
+    "static/css/main.8a18c7c4.chunk.css",
+    "static/js/main.d9fc91aa.chunk.js"
+  ]
+}
